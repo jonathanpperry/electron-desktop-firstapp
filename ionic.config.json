@@ -1,0 +1,7 @@
+{
+  "name": "devdacticElectron",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
